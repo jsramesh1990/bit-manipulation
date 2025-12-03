@@ -1,0 +1,8 @@
+bit-manipulator/
+├── README.md
+├── bit_operations.h
+├── bit_operations.c
+├── main.c
+├── test_bit_operations.c
+├── Makefile
+└── .gitignore
